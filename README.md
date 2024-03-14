@@ -267,7 +267,7 @@ Finally, as a further explotation of this toolbox, we also offer an exploration 
 2. Launch the anaconda console, typing anaconda promp in the windows/linux search bar.
 3. In the anaconda prompt, create a conda environment (e.g. `ripple_AI_env`):
 ```
-conda create -n rippl_AI_env python=3.9.15
+mamba create -n rippl_AI_env python=3.9.15
 ```
 4. This will create a enviroment in your miniconda3 enviroments folder, usually: `C:\Users\<your_user>\miniconda3\envs`
 5. Check that the enviroment `rippl_AI_env` has been created by typing:
